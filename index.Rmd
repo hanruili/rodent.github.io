@@ -1,0 +1,45 @@
+---
+title: "P8105 Rodent Activity Analysis"
+output: html_document
+---
+
+<img src="data/Rodent in Subway.jpg" alt="NYC Skyline" style="width:100%; display: block; margin: auto;">
+
+# Welcome to the Rodent Activity Analysis Website
+
+Rodents are more than just a nuisance—they represent significant public health and urban management challenges. This website analyzes **rodent activity trends** in New York City (2020–2024) using advanced statistical and geographic tools.
+
+
+---
+
+## 🎯 **Objectives of the Project**
+### What We Aim to Achieve
+1. **Understand Temporal Trends**  
+   Investigate how rodent activity fluctuates across seasons and years.
+   
+2. **Analyze Geographic Distribution**  
+   Identify rodent activity hotspots and their correlation with food scrap drop-off sites.
+   
+3. **Assess Socioeconomic Impact**  
+   Explore how factors like rental prices and house values influence rodent activity.
+   
+4. **Build Predictive Models**  
+   Develop statistical models to predict rodent activity using geographic and socioeconomic data.
+
+---
+
+## 🔑 **Key Findings**
+- **Temporal Trends**: Rodent activity peaks in the summer and declines in the winter.
+- **Geographic Insights**: Manhattan and Brooklyn have the highest rodent activity, while Staten Island has the least.
+- **Socioeconomic Factors**: Rental prices and house values have a small but significant impact on rodent activity.
+- **Predictive Models**: Borough-level data improves model accuracy, highlighting the importance of localized analysis.
+
+---
+
+## 👩‍💻 **Meet the Team**
+This project is the result of a collaborative effort by the **P8105 Team**. Our mission is to provide actionable insights that enhance urban health management strategies in New York City. We hope our work contributes to a cleaner, healthier NYC for all residents.
+
+---
+
+## 🌆 **Closing Note**
+Explore the site to learn more about our work, findings, and the steps we recommend to tackle rodent activity in NYC. Let’s make NYC a safer, cleaner place for everyone!
